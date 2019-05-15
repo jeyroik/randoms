@@ -1,0 +1,10 @@
+{
+  "name": "jr/randoms",
+  "description": "JR randoms package",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "jr\\": "src/"
+    }
+  }
+}
